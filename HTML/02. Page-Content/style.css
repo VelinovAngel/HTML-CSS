@@ -1,0 +1,20 @@
+ section h1 {
+    text-align: center;
+    font-size: 400%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+article{
+    padding-left: 120mm;
+    padding-right: 120mm;
+}
+
+section article header p{
+    font-style: italic;
+    font-size: large;
+}
+
+h3{
+    font-weight: bold;
+}
+
